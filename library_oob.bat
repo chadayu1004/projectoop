@@ -1,0 +1,1 @@
+cloudflared access tcp --hostname sql-db.r0cketnet.com --url localhost:1433
